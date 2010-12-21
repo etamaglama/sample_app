@@ -1,3 +1,10 @@
+This is day 3 of what I perceive to be a blasted long journey.
+
+
+
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
