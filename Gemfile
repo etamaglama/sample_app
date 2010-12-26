@@ -9,6 +9,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 
 group :development do
   gem 'rspec-rails', '2.3.0'
+  gem 'ZenTest', '4.4.2'
 end
 
 group :test do
